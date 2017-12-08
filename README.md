@@ -39,7 +39,11 @@ Recruiting and retaining a diverse, efficient team
 
 Stories from old-timers, bringing current Drupal quirks into perspective (this well has no bottom)
 
-Scaling Drupal projects to 10 concurrent developers. 20 developers. 50 developers.How best practices differ between teams that build sites from scratch vs in-house teams that develop a long-term productSmall Scale Drupal and why it matters: nonprofits, small businesses, individuals
+Scaling Drupal projects to 10 concurrent developers. 20 developers. 50 developers
+
+How best practices differ between teams that build sites from scratch vs in-house teams that develop a long-term product
+
+Small Scale Drupal and why it matters: nonprofits, small businesses, individuals
 
 We were a Drupal site and we moved to Wordpress, here's why and how that went.
 
@@ -61,11 +65,17 @@ Breaking into the market for Drupal services from outside NA/EUR
 
 Drupal en Espanol 
 
-This is the crazy front end we built on top of Drupal. It's a horrible Frankenstein, but it does amazing things.Replacing Drupal's backend with something else entirely, using the Front End only. 
+This is the crazy front end we built on top of Drupal. It's a horrible Frankenstein, but it does amazing things.
+
+Replacing Drupal's backend with something else entirely, using the Front End only. 
 
 Moving beyond volunteer work into sustainable, funded contributions
 
-Continuous delivery at scale: from PR to live in <1 hour, dozens of times a day.Not just admin themes, but building better editorial interfaces. Keeping Drupal projects alive, healthy, successful long term: 4, 8years+
+Continuous delivery at scale: from PR to live in <1 hour, dozens of times a day.
+
+Not just admin themes, but building better editorial interfaces.
+
+Keeping Drupal projects alive, healthy, successful long term: 4, 8years+
 
 Voice-operated Drupal
 
@@ -105,5 +115,7 @@ Your responsibility as a Drupal developer/community member
 
 What are Drupal's values? How are they applied in the community? In the code?
 
-Effective product management beyond just saying 'No'Pricing yourself/your project bid/your team correctly
+Effective product management beyond just saying 'No'
+
+Pricing yourself/your project bid/your team correctly
 
