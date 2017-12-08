@@ -1,5 +1,9 @@
 # drupalcon-talk-ideas
-Some ideas for DrupalCon session topics. Feel free to borrow, steal, use as your own. PR's welcome.
+_Some ideas for DrupalCon session topics. Feel free to borrow, steal, use as your own._
+
+_PRs always welcome._
+
+===
 
 Too Few, Too Many: The Right Number of Content Types for your Site
 
