@@ -117,9 +117,10 @@ What Drupal can learn/borrow/steal from React
 
 Your responsibility as a Drupal developer/community member
 
+How to build a Fidget Spinner-powered Drupal website
+
 What are Drupal's values? How are they applied in the community? In the code?
 
 Effective product management beyond just saying 'No'
 
 Pricing yourself/your project bid/your team correctly
-
